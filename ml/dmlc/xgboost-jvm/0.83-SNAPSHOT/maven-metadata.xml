@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ml.dmlc</groupId>
+  <artifactId>xgboost-jvm</artifactId>
+  <version>0.83-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190516.084955</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20190516084955</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.83-20190516.084955-3</value>
+        <updated>20190516084955</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
