@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ml.dmlc</groupId>
+  <artifactId>xgboost4j-spark</artifactId>
+  <versioning>
+    <versions>
+      <version>0.83-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190516085420</lastUpdated>
+  </versioning>
+</metadata>
